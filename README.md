@@ -4,6 +4,18 @@ This repository contains an analysis of the **causal effect of surgical interven
 
 **Dataset Source:** [TBIMS National Data and Statistical Center](https://www.tbindsc.org/)
 
+---
+
+## 📄 Publication
+
+This work was published in **Frontiers in Neurology** (November 13, 2025):
+
+> Irankhah E, Pagare M, Chetla L, Shen J, Ul Alam MA and Wolkowicz KL (2025). *Machine learning-enhanced causal inference of surgical decisions and rehabilitation strategies in traumatic brain injury.* Front. Neurol. 16:1685335.
+
+- **Full article:** [Frontiers in Neurology](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1685335/full)
+- **PubMed:** [PMID 41323220](https://pubmed.ncbi.nlm.nih.gov/41323220/)
+- **DOI:** [10.3389/fneur.2025.1685335](https://doi.org/10.3389/fneur.2025.1685335)
+
 We evaluate the **Average Treatment Effect (ATE)** and **Average Treatment Effect on the Treated (ATT)** using stratified estimation. We also compute **Propensity Score Matching (PSM)** effects for robustness and perform Welch’s t-tests for statistical significance.
 
 ---

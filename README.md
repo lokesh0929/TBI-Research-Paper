@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ## 👥 Authors
 
-- **Elyas Irankhah** — [@Elyasirankhah](https://github.com/Elyasirankhah)
 - **Lokesh Chetla** — [@lokesh0929](https://github.com/lokesh0929)
+- **Elyas Irankhah** — [@Elyasirankhah](https://github.com/Elyasirankhah)
 
-> This is a co-authored project. The original repository is at [Elyasirankhah/TBI_Causal_Effect_Analysis](https://github.com/Elyasirankhah/TBI_Causal_Effect_Analysis).
+

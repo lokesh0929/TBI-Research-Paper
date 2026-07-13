@@ -48,6 +48,7 @@ We evaluate the **Average Treatment Effect (ATE)** and **Average Treatment Effec
 - matplotlib
 - seaborn
 - scipy
+- scikit-learn
 
 Install dependencies using:
 
